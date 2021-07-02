@@ -1,2 +1,4 @@
 # Homework3
 Git Week 3 homework
+
+I am editing the README file. Adding some more details about the project description.
